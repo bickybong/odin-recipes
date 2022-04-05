@@ -1,0 +1,22 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    background-color: darkcyan;
+    color: hotpink;
+}
+ol li{
+    background-color: gold;
+    color: thistle;
+    text-align: center;
+}
+
+.i{
+    height: auto;
+    width: 800px;
+    text-align: right;
+    background-color: plum;
+}
